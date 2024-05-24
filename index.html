@@ -16,10 +16,17 @@
             repo: 'https://github.com/yuutong/Note_yu',
             loadSidebar: true,
             loadNavbar: true,
-            homepage: 'README.md'
+            homepage: 'README.md',
+            plugins: [
+                window.DocsifySidebarCollapse.create({
+                    autoCollapseNavbar: true,
+                }),
+            ],
         }
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- docsify-sidebar-collapse plugin -->
+    <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>

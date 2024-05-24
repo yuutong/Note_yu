@@ -2,4 +2,4 @@
 * [计算机笔记](/docs/computerNode/)
     * [C++](/docs/computerNode/cpp/)
         * [对象模型](/docs/computerNode/cpp/objModel/)
-            * [01](#)
+            * [01](/docs/computerNode/cpp/objModel/01.md)

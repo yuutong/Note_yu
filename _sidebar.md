@@ -2,6 +2,7 @@
     * [C++](/docs/computerNode/cpp/)
         * [对象模型](/docs/computerNode/cpp/objModel/)
             * [01](/docs/computerNode/cpp/objModel/01.md)
+    * [python](/docs/computerNode/python/)
 * [其他笔记](/docs/otherNode/)
 * [关于](/about.md)
 * [联系我们](/contact.md)
